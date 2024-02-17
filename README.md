@@ -18,31 +18,7 @@ The following classification models have been implemented and evaluated in this 
 6. Naive bayes
 7. Kernel SVM
 
-## Usage
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/breast-cancer-classification.git
-   ```
-
-2. Install the required dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the Jupyter notebook or Python scripts to train and evaluate the models:
-
-   ```bash
-   jupyter notebook breast_cancer_classification.ipynb
-   ```
-
-   or
-
-   ```bash
-   python breast_cancer_classification.py
-   ```
 
 ## Results
 
