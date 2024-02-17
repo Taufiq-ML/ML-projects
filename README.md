@@ -18,7 +18,12 @@ The following classification models have been implemented and evaluated in this 
 6. Naive bayes
 7. Kernel SVM
 
-
+##Data Import!!!
+1. Download the csv file and upload in runtime
+   OR
+2. Mount google Drive(
+from google.colab import drive
+drive.mount('/content/drive')
 
 ## Results
 
